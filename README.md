@@ -1,5 +1,4 @@
-<h1 ><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F77927&width=435&lines=Kirolos+Tamer;Hack+%26+secure+before+hacked." align="center" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=500&color=F77927&width=500&lines=Kirolos+Tamer;Hack+%26+secure+before+hacked." alt="Typing SVG" /></a></h1>
 
 ### About Me
 
