@@ -3,12 +3,13 @@
 <br>
 <h2> &nbsp &nbsp About Me</h2>
 
-- Web Application Penetration Testing based on OWASP TOP 10  
+Penetration Tester specialized at:
+- Web Application Penetration Testing based on OWASP TOP 10.
 - Hardware (OT & IOT) Penetration testing.  
 - Network Penetration Testing.
 - Security Hardening.  
 
-I will secure organizations by bridging the gap between cyber and physical security by combining my penetration testing expertise , advanced networking skills , and communications & electronics engineering background to deliver end to end protection from code to hardware.
+I will secure your system by bridging the gap between cyber and physical security by combining my penetration testing expertise, advanced networking skills, and communications & electronics engineering background to deliver end to end protection from code to hardware.
 
 ---
 <!--
