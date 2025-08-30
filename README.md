@@ -1,5 +1,13 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
+<h1 align="center">Kirolos Tamer - Hack it to Protect it🧑‍💻</h1>
+<img align="right" alt="penetration" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkcmdhbzhzbXhrNXR4N3l0bTloc3AzOHA1OTEzYzBkOTZpbjh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif">
+<h2>About Me</h2>
+- Backend Software Engineer specializing in Python, Django, and FastAPI.  
+- Former Frontend Developer (React) with a focus on building scalable, maintainable backend systems.  
+- Founding Backend Engineer at Byte Hive and Backend Co-lead at GDG BNU.  
+- Final-year Computer Science student with strong interest in API design, database optimization, and system architecture.  
+- Committed to writing clean, reusable, and efficient code.  
+
+---
 <!--
 **Kirolos-Tamer/Kirolos-Tamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
