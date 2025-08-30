@@ -3,7 +3,7 @@
 ### About Me
 
 ---
-<img align="right" alt="penetration" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkcmdhbzhzbXhrNXR4N3l0bTloc3AzOHA1OTEzYzBkOTZpbjh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif">
+<img align="right" alt="penetration" width="275" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkcmdhbzhzbXhrNXR4N3l0bTloc3AzOHA1OTEzYzBkOTZpbjh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif">
 
 Penetration Tester specialized at:
 - Web Application Penetration Testing based on OWASP TOP 10.
