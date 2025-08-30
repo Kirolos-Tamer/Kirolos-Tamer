@@ -5,7 +5,7 @@
 ---
 <img align="right" alt="penetration" width="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkcmdhbzhzbXhrNXR4N3l0bTloc3AzOHA1OTEzYzBkOTZpbjh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif">
 
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F77927&width=435&lines=Kirolos+Tamer;Penetration+Tester+specialized+at%3A;Hack+and+secure+your+system+before+someone+else+Hack+it)](https://git.io/typing-svg)" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F77927&width=435&lines=Kirolos+Tamer;Penetration+Tester+specialized+at%3A;Hack+and+secure+your+system+before+someone+else+Hack+it" alt="Typing SVG" /></a>
 
 - Web Application Penetration Testing based on OWASP TOP 10.
 - Hardware (OT & IOT) Penetration testing.  
