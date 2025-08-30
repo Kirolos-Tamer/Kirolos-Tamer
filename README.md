@@ -5,6 +5,7 @@
 ---
 <img align="right" alt="penetration" width="270" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkcmdhbzhzbXhrNXR4N3l0bTloc3AzOHA1OTEzYzBkOTZpbjh3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=500&color=D4C830&center=true&width=500&lines=Penetration+Tester+specialized+at%3A" alt="Typing SVG" /></a>
 
 - Web Application Penetration Testing based on OWASP TOP 10.
 - Hardware (OT & IOT) Penetration testing.  
