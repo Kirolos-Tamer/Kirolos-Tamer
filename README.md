@@ -1,6 +1,7 @@
 <h1 align="center" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1&pause=&color=F77927&center=true&repeat=false&width=500&lines=Kirolos+Tamer" alt="Typing SVG" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" height="40" alt="RedHat" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5500&pause=500&color=F77927&center=true&width=500&lines=Penetration+Tester;Hack+%26+secure+before+hacked." alt="Typing SVG"/>
   </a>
 </h1>
@@ -53,6 +54,44 @@ I will secure your system by bridging the gap between cyber and physical securit
 </p>
 
 ---
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>  
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" alt="Python" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="50" alt="Php" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" alt="JavaScript" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="50" alt="TypeScript" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="50" alt="C++" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="50" alt="C" />
+  &#8287;
+  <img src="" height="50" alt="" />
+  &#8287;&#8287;
+</details>
+
+<details open>
+<summary><b>FrontEnd Development</b></summary>
+<br>  
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="50" alt="React" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Angular-Dark.svg" height="50" alt="Angular" />
+  &#8287;
+</details>
+
+---
+
+  
+
+
+
+
 
 <details open>
 <summary><b>Programming Languages</b></summary>
