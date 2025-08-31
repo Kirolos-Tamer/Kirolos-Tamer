@@ -31,6 +31,9 @@ I will secure your system by bridging the gap between cyber and physical securit
   <a href="https://www.instagram.com/_.kir0l0s._/"><img width="45px" alt="Insagram" title="Instagram" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/instagram-svgrepo-com.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
+---
+
 <!--
 **Kirolos-Tamer/Kirolos-Tamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
