@@ -22,15 +22,20 @@ I will secure your system by bridging the gap between cyber and physical securit
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/kirolostamer"><img width="45px" alt="Linkedin" title="Linkedin" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/linkedin-svgrepo-com%20(2).svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@engkirolostamer"><img width="45px" alt="Medium" title="Medium" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/medium-svgrepo-com.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tryhackme.com/p/KirolosTamer"><img width="45px" alt="TryHackMe" title="TryHackMe" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(1).svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_.kir0l0s._/"><img width="45px" alt="Insagram" title="Instagram" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/instagram-svgrepo-com.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/kirolostamer">
+    <img align="center" width="45px" alt="Linkedin" title="Linkedin" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/linkedin-svgrepo-com%20(2).svg"/>
+  </a>
+  <a href="https://medium.com/@engkirolostamer">
+    <img align="center" width="45px" alt="Medium" title="Medium" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/medium-svgrepo-com.svg"/>
+  </a>
+  <a href="https://tryhackme.com/p/KirolosTamer">
+    <img align="center" width="45px" alt="TryHackMe" title="TryHackMe" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(1).svg"/>
+  </a>
+  <a href="https://www.instagram.com/_.kir0l0s._/">
+    <img align="center" width="45px" alt="Instagram" title="Instagram" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/instagram-svgrepo-com.svg"/>
+  </a>
 </p>
+
 
 ---
 
