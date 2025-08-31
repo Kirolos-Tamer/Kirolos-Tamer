@@ -58,13 +58,20 @@ I will secure your system by bridging the gap between cyber and physical securit
 <summary><b>Programming Languages</b></summary>
 <br>  
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="60" alt="Python" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="60" alt="Php" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="60" alt="JavaScript" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="60" alt="TypeScript" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="60" alt="C++" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="60" alt="C" />
-  <img src="" height="60" alt="" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="50" alt="Python" />
+  &#8287;&#8287;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="50" alt="Php" />
+  &#8287;&#8287;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="50" alt="JavaScript" />
+  &#8287;&#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="50" alt="TypeScript" />
+  &#8287;&#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="50" alt="C++" />
+  &#8287;&#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="50" alt="C" />
+  &#8287;&#8287;
+  <img src="" height="50" alt="" />
+  &#8287;&#8287;
 </details>
 
 ---
