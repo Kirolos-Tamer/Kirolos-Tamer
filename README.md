@@ -37,6 +37,46 @@ I will secure your system by bridging the gap between cyber and physical securit
 
 
 ---
+### Tools
+
+<p align="center">
+  <img width="45px" alt="Brupsuite" title="Burpsuite" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(4).svg"/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@engkirolostamer"><img width="45px" alt="Medium" title="Medium" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/medium-svgrepo-com.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://tryhackme.com/p/KirolosTamer"><img width="45px" alt="TryHackMe" title="TryHackMe" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(1).svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/_.kir0l0s._/"><img width="45px" alt="Insagram" title="Instagram" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/instagram-svgrepo-com.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https:mailto:engkirolostamer@gmail.com"><img width="45px" alt="Email" title="Email" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/email-svgrepo-com.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<details>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></a>
+</details>
+
+---
+<details>
+<summary><b>Frontend Technologies</b></summary>
+<br>
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></a>
+</p>
+</details>
+
+<details>
+<summary><b>Backend & Database Technologies</b></summary>
+<br>
+<p align="center">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" /></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
+</p>
+</details>
+
 
 <!--
 **Kirolos-Tamer/Kirolos-Tamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
