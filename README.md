@@ -85,6 +85,20 @@ I will secure your system by bridging the gap between cyber and physical securit
   &#8287;
 </details>
 
+<details open>
+<summary><b>Database Technologies</b></summary>
+<br>  
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="50" alt="MySQL" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" height="50" alt="SQLite" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="50" alt="Postgresql" />
+  &#8287;
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="50" alt="MongoDB" />
+  &#8287;
+</details>
+
 ---
 
   
