@@ -22,6 +22,7 @@ I will secure your system by bridging the gap between cyber and physical securit
 <br>
 
 ---
+### Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/kirolostamer"><img width="45px" alt="Linkedin" title="Linkedin" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/linkedin-svgrepo-com%20(3).svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -40,7 +41,7 @@ I will secure your system by bridging the gap between cyber and physical securit
 ---
 ### Tools
 
-<p align="left">
+<p align="center">
   <img width="45px" alt="Brupsuite" title="Burpsuite" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(4).svg"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="Medium" title="Nmap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Nmap%20(1).svg"/>
