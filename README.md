@@ -42,7 +42,7 @@ I will secure your system by bridging the gap between cyber and physical securit
 <p align="center">
   <img width="45px" alt="Brupsuite" title="Burpsuite" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(4).svg"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="45px" alt="Medium" title="Nmap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Nmap%20(1).svg"/>
+  <img width="45px" alt="Medium" title="Nmap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(7).svg"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="TryHackMe" title="Metasploit" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Metasploit%20(1).svg"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
