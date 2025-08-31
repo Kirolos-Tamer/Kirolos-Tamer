@@ -41,20 +41,30 @@ I will secure your system by bridging the gap between cyber and physical securit
 
 <p align="left">
   <img width="45px" alt="Brupsuite" title="Burpsuite" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(4).svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="Medium" title="Nmap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Nmap%20(1).svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="TryHackMe" title="Metasploit" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Metasploit%20(1).svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="Insagram" title="Nessus" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Nessus%20(1).svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="Email" title="OWASPZap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(6).svg"/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<details>
+
+---
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>  
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /></a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="40" alt="Php" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="40" alt="TypeScript" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="40" alt="C++" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="40" alt="C" />
+  <img src="" height="40" alt="" />
 </details>
 
 ---
