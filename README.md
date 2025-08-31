@@ -22,7 +22,7 @@ I will secure your system by bridging the gap between cyber and physical securit
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/kirolostamer"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/linkedin-svgrepo-com.svg"/></a>
+  <a href="https://www.linkedin.com/in/kirolostamer"><img width="50px" alt="Linkedin" title="Linkedin" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/linkedin-svgrepo-com.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
