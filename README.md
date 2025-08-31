@@ -55,7 +55,7 @@ I will secure your system by bridging the gap between cyber and physical securit
 
 ---
 ### Education background
-<img align="right" width="100px" alt="BNU" title="BNU" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/BNUlogo.svg"/>
+<img align="left" width="100px" alt="BNU" title="BNU" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/BNUlogo.svg"/>
 <h3 align="center"> Benha National University | 2023-2027 </h3>
 <p align="center">B.Sc. Communications & Electronics Engineering - GPA: 3.51 (Top 10)</p>
 <br>
