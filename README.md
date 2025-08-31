@@ -1,6 +1,6 @@
 <h1 align="center" >
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" align="right" height="40" alt="RedHat" />
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" align="right" height="40" alt="RedHat" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1&pause=&color=F77927&center=true&repeat=false&width=500&lines=Kirolos+Tamer" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5500&pause=500&color=F77927&center=true&width=500&lines=Penetration+Tester;Hack+%26+secure+before+hacked." alt="Typing SVG"/>
   </a>
