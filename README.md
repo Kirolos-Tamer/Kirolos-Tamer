@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" align="right" height="40" alt="RedHat" />
+  &#8287;&#8287<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RedHat-Dark.svg" align="right" height="40" alt="RedHat" />
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1&pause=&color=F77927&center=true&repeat=false&width=500&lines=Kirolos+Tamer" alt="Typing SVG" />
