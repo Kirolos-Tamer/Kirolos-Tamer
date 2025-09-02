@@ -49,7 +49,7 @@ I will secure your system by bridging the gap between cyber and physical securit
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="45px" alt="Insagram" title="Nessus" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Nessus%20(1).svg"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <img width="45px" alt="Email" title="OWASPZap" src="https://github.com/Kirolos-Tamer/Kirolos-Tamer/blob/main/Untitled%20design%20(6).svg"/>
+  <img width="45px" alt="" title="" src=""/>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
